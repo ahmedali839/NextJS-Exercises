@@ -30,6 +30,7 @@ export default function Home() {
               width={16}
               height={16}
             />
+            // adding a comment to test git
             Deploy Now
           </a>
           <a
