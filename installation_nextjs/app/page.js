@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h2 className="text-3xl font-bold text-zinc-800 dark:text-zinc-200">
           Welcome to Next.js! // first project with Next.js and Tailwind CSS
-        </h2>
+        </h2> // here we can add more content or components to the page as needed
       </main>
     </div>
   );
